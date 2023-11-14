@@ -1,0 +1,91 @@
+{
+  "id": "filelist",
+  "folders": [
+    {
+      "name": "data",
+      "files": [
+        {
+          "file": "device.json"
+        },
+        {
+          "file": "profile.json"
+        }
+      ]
+    },
+    {
+      "name": "html",
+      "files": [
+        {
+          "file": "index.html"
+        },
+        {
+          "file": "about.html"
+        },
+        {
+          "file": "bucket.html"
+        },
+        {
+          "file": "device.html"
+        },
+        {
+          "file": "fogger.html"
+        },
+        {
+          "file": "live.html"
+        },
+        {
+          "file": "reservoir.html"
+        },
+        {
+          "file": "live.html"
+        },
+        {
+          "file": "login.html"
+        }
+      ]
+    },
+    {
+      "name": "images",
+      "files": [
+        {
+          "file": "comp_icon.ico"
+        },
+        {
+          "file": "device.png"
+        },
+        {
+          "file": "select-left.cur"
+        },
+        {
+          "file": "select-right.cur"
+        },
+        {
+          "file": "status_green.gif"
+        },
+        {
+          "file": "status_off.gif"
+        },
+        {
+          "file": "status-red.gif"
+        },
+        {
+          "file": "user.png"
+        }
+      ]
+    },
+    {
+      "name": "styles",
+      "files": [
+        {
+          "file": "acc.js"
+        },
+        {
+          "file": "clock.css"
+        },
+        {
+          "file": "main.css"
+        }
+      ]
+    }
+  ]
+}
