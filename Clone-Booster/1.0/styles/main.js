@@ -56,18 +56,19 @@ function Init(event) {
     /*temp*/
     console.log("Init");
     /* delivery by server*/
-    fprocessDisplayJson(jsonDoc1);
+    /*fprocessDisplayJson(jsonDoc1);*/
     clock_Init();
     setInterval(fisBrowserOnline, 3000);
     /* myWindow();*/
     ws_Init();
 }
 function fprocessSensorJson(jsonDoc) {
-
+    console.log("SensorjsonDoc");
+    console.log(jsonDoc);
 }
 function fprocessDisplayJson(jsonDoc) {
     /* settings */
-    console.log("jsonDoc");
+    console.log("DisplayjsonDoc");
     console.log(jsonDoc);
     if (jsonDoc.hasOwnProperty("settings")) {
         jsonDoc["settings"].forEach(jsonItem => {
